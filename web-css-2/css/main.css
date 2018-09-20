@@ -1,0 +1,19 @@
+
+header {
+    background-color: rgba(255, 255, 255, 0);
+    background-image: url(../images/zozor_logo.png width = 150%);
+    background-repeat: no-repeat;
+
+    
+    
+}
+body{
+    background-image: url(../images/yellow_background.png);
+    background-size: cover;
+}
+header h1{
+    font-family:"URW Chancery L", cursive;
+    font-style: oblique;
+    position: absolute;
+  left: 80px;
+}
